@@ -1,0 +1,6 @@
+{
+  "name": "RAFI Scientific Calculator",
+  "description": "Premium, authentic online scientific calculator created by Rakibul Hasan Rafi (RHR) with advanced mathematics, graphing, equation solving, calculus, matrices, and unit conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
